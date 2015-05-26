@@ -1,0 +1,5 @@
+name = WV_Custom
+description = Adds custom links to the follow module.
+package = wv_custom module
+core = 7.x
+files[] = wv_custom.module
